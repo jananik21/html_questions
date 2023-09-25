@@ -1,0 +1,125 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "category": "HTML",
+      "question": "What does HTML stand for?",
+      "options": [
+        "Hyperloop Machine Language",
+        "Hypertext Markup Language",
+        "Hyperspace Markup Language",
+        "Hypertool Markup Language"
+      ],
+      "right_answer": "Hypertext Markup Language"
+    },
+    {
+      "id": 2,
+      "category": "HTML",
+      "question": "Which HTML tag is used to create an ordered list?",
+      "options": [
+        "<ul>",
+        "<li>",
+        "<ol>",
+        "<dl>"
+      ],
+      "right_answer": "<ol>"
+    },
+    {
+      "id": 3,
+      "category": "HTML",
+      "question": "What is the correct HTML tag to make text bold?",
+      "options": [
+        "<strong>",
+        "<b>",
+        "<bold>",
+        "<em>"
+      ],
+      "right_answer": "<strong>"
+    },
+    {
+      "id": 4,
+      "category": "HTML",
+      "question": "What does the HTML element <a> stand for?",
+      "options": [
+        "Anchor",
+        "Action",
+        "All",
+        "Attribute"
+      ],
+      "right_answer": "Anchor"
+    },
+    {
+      "id": 5,
+      "category": "HTML",
+      "question": "Which HTML element is used to define the structure of an HTML document?",
+      "options": [
+        "<body>",
+        "<head>",
+        "<html>",
+        "<title>"
+      ],
+      "right_answer": "<html>"
+    },
+    {
+      "id": 6,
+      "category": "HTML",
+      "question": "What is the purpose of the HTML <meta> tag?",
+      "options": [
+        "To define a paragraph",
+        "To specify character encoding",
+        "To create a hyperlink",
+        "To add a background image"
+      ],
+      "right_answer": "To specify character encoding"
+    }
+  
+    {
+      "id": 7,
+      "category": "HTML",
+      "question": "Which HTML tag is used to create a line break within a paragraph?",
+      "options": [
+        "<br>",
+        "<lb>",
+        "<break>",
+        "<newline>"
+      ],
+      "right_answer": "<br>"
+    },
+    {
+      "id": 8,
+      "category": "HTML",
+      "question": "What does the HTML acronym 'URL' stand for?",
+      "options": [
+        "Universal Resource Locator",
+        "Uniform Resource Link",
+        "Unified Resource Locator",
+        "Unique Resource Link"
+      ],
+      "right_answer": "Universal Resource Locator"
+    },
+    {
+      "id": 9,
+      "category": "HTML",
+      "question": "Which HTML element is used to define the title of an HTML document?",
+      "options": [
+        "<header>",
+        "<h1>",
+        "<title>",
+        "<heading>"
+      ],
+      "right_answer": "<title>"
+    },
+    {
+      "id": 10,
+      "category": "HTML",
+      "question": "In HTML, what is the purpose of the <div> element?",
+      "options": [
+        "To define a division or section of a web page",
+        "To create a hyperlink",
+        "To insert an image",
+        "To format text as bold"
+      ],
+      "right_answer": "To define a division or section of a web page"
+    }
+]
+}
